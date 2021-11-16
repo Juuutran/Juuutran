@@ -14,7 +14,7 @@ Voici le Portfolio des 9 projets que j'ai réalisé dans le cadre de ma formatio
 
 Les projets 1 et 2 sont absents de mon Portfolio car il ne comportent pas de code et evaluent des compétences de type softskills.
 
-## [Projet 3 : Réalisez une étude de santé publique](https://github.com/Juuutran/Portfolio/tree/main/P3)
+## [Projet 3 : Réalisez une étude de santé publique / Pyhton](https://github.com/Juuutran/Portfolio/tree/main/P3)
 
 Mise en situation :
 
@@ -34,7 +34,7 @@ Notions utilisées :
 
 Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 
-## [Projet 4 : Analysez les résultats de votre entreprise](https://github.com/Juuutran/Portfolio/tree/main/P4)
+## [Projet 4 : Analysez les résultats de votre entreprise / Pyhton](https://github.com/Juuutran/Portfolio/tree/main/P4)
 
 Mise en situation :
 
@@ -52,7 +52,7 @@ Notions utilisées :
 
 Statistique descriptive / Language Python.
 
-## [Projet 5 : Produisez une étude de marché](https://github.com/Juuutran/Portfolio/tree/main/P5)
+## [Projet 5 : Produisez une étude de marché / Pyhton & R](https://github.com/Juuutran/Portfolio/tree/main/P5)
 
 Mise en situation :
 
@@ -70,7 +70,7 @@ Notions utilisées :
 
 Statistique descriptive / Classification automatique.
 
-## Projet 6 : Détectez de faux billets
+## Projet 6 : Détectez de faux billets / R
 
 Mise en situation :
 
@@ -92,7 +92,7 @@ statistique descriptive / Analyse en Composantes Principales / Classification au
 
 Modélisation de type régression logistique.
 
-## Projet 7 : Effectuez une prédiction de revenus
+## Projet 7 : Effectuez une prédiction de revenus / Pyhton
 
 Mise en situation :
 
@@ -109,7 +109,7 @@ Maîtriser les bases de la statistique inférentielle / Maîtriser les bases des
 
 Notions utilisées :
 
-## Projet 8 : Communiquez vos résultats
+## Projet 8 : Communiquez vos résultats / Pyhton
 
 Mise en situation :
 
@@ -126,7 +126,7 @@ Communiquer ses résultats à l’aide de visualisations / Rédiger un rapport d
 
 Notions utilisées :
 
-## Projet 9 : Prédisez la demande en électricité
+## Projet 9 : Prédisez la demande en électricité / Pyhton
 
 Mise en situation :
 
