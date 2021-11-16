@@ -70,7 +70,7 @@ Notions utilisées :
 
 Statistique descriptive / Classification automatique.
 
-## Projet 6 : Détectez de faux billets / R
+## [Projet 6 : Détectez de faux billets / R](https://github.com/Juuutran/Portfolio/tree/main/P6)
 
 Mise en situation :
 
