@@ -14,7 +14,7 @@ Voici le Portfolio des 9 projets que j'ai réalisé dans le cadre de ma formatio
 
 Les projets 1 et 2 sont absents de mon Portfolio car il ne comportent pas de code et evaluent des compétences de type softskills.
 
-## [Projet 3 : Réalisez une étude de santé publique / Pyhton](https://github.com/Juuutran/Portfolio/tree/main/P3)
+## [Projet 3 : Réalisez une étude de santé publique / Pyhton & SQL](https://github.com/Juuutran/Portfolio/tree/main/P3)
 
 Mise en situation :
 
