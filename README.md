@@ -92,7 +92,7 @@ statistique descriptive / Analyse en Composantes Principales / Classification au
 
 Modélisation de type régression logistique.
 
-## [Projet 7 : Effectuez une prédiction de revenus / Pyhton](https://github.com/Juuutran/Portfolio/tree/main/P4)
+## [Projet 7 : Effectuez une prédiction de revenus / Pyhton](https://github.com/Juuutran/Portfolio/tree/main/P7)
 
 Mise en situation :
 
