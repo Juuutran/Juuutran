@@ -8,13 +8,13 @@
 🔭 Position: Data Analyst  
 
 
-## Portfolio de mes projets Openclassrooms
+# Portfolio de mes projets Openclassrooms
 
-Voici le Portfolio des 9 projets que j'ai réalisé dans le cadre de ma formation Data Analyst avec Openclassrooms. Je suis toujours en formation à ce jour (22/12/2021) mais assez avancé et en avance pour vous présenter mes projets finalisés et leur code Python, R, et SQL associés. La formation comprend 9 projets différents dont un projet personnel construit de A à Z par moi-meme. Vous trouverez ci-dessous l'intitulé des différents projets et des compétences acquises pour chacun d'eux.
+Voici le Portfolio des 9 projets que j'ai réalisé dans le cadre de ma formation Data Analyst avec Openclassrooms. Je suis toujours en formation à ce jour (05/11/2021) mais assez avancé et en avance pour vous présenter mes projets finalisés et leur code Python, R, et SQL associés. La formation comprend 9 projets différents dont un projet personnel construit de A à Z par moi-meme. Vous trouverez ci-dessous l'intitulé des différents projets et des compétences acquises pour chacun d'eux.
 
 Les projets 1 et 2 sont absents de mon Portfolio car il ne comportent pas de code et evaluent des compétences de type softskills.
 
-## [Projet 3 : Réalisez une étude de santé publique / Pyhton & SQL](https://github.com/Juuutran/Portfolio/tree/main/P3)
+# [Projet 3 : Réalisez une étude de santé publique / Python & SQL](https://github.com/Juuutran/Portfolio/tree/main/P3)
 
 ## Mise en situation :
 
@@ -33,9 +33,9 @@ Vous êtes intégré à une nouvelle équipe de chercheurs de la Food and Agricu
 
 * Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 
-## [Projet 4 : Analysez les résultats de votre entreprise / Pyhton](https://github.com/Juuutran/Portfolio/tree/main/P4)
+# [Projet 4 : Analysez les résultats de votre entreprise / Python](https://github.com/Juuutran/Portfolio/tree/main/P4)
 
-## Mise en situation :
+Mise en situation :
 
 Vous êtes Data Analyst d'une grande chaîne de librairie, fraîchement embauché depuis une semaine. Le service informatique vous a donné l’accès à la base de données des ventes. A vous de vous familiariser avec les données, et de les analyser. Votre manager souhaite que vous réalisiez une présentation pour vous "faire la main". Votre entreprise, "Rester livres" s'est d'abord développée dans une grande ville de France, avec plusieurs magasins, jusqu'à décider d'ouvrir une boutique en ligne. Son approche de la vente de livres en ligne, basée sur des algorithmes de recommandation, lui a valu un franc succès !
 
@@ -49,9 +49,9 @@ Vous êtes Data Analyst d'une grande chaîne de librairie, fraîchement embauch�
 
 ## Notions utilisées :
 
-* Statistique descriptive / Language Python.
+* Statistique descriptive / Language Python
 
-## [Projet 5 : Produisez une étude de marché / Pyhton & R](https://github.com/Juuutran/Portfolio/tree/main/P5)
+# [Projet 5 : Produisez une étude de marché / Python & R](https://github.com/Juuutran/Portfolio/tree/main/P5)
 
 ## Mise en situation :
 
@@ -67,9 +67,9 @@ Votre entreprise d'agroalimentaire souhaite se développer à l'international. E
 
 ## Notions utilisées :
 
-* Statistique descriptive / Classification automatique.
+* Statistique descriptive / Classification automatique
 
-## [Projet 6 : Détectez de faux billets / R](https://github.com/Juuutran/Portfolio/tree/main/P6)
+# [Projet 6 : Détectez de faux billets / R](https://github.com/Juuutran/Portfolio/tree/main/P6)
 
 ## Mise en situation :
 
@@ -89,7 +89,7 @@ Votre société de consulting informatique vous propose une nouvelle mission au 
 * statistique descriptive / Analyse en Composantes Principales / Classification automatique
 * Modélisation de type régression logistique.
 
-## [Projet 7 : Effectuez une prédiction de revenus / Pyhton](https://github.com/Juuutran/Portfolio/tree/main/P7)
+# [Projet 7 : Effectuez une prédiction de revenus / Python](https://github.com/Juuutran/Portfolio/tree/main/P7)
 
 ## Mise en situation :
 
@@ -106,26 +106,32 @@ L'équipe dans laquelle vous travaillez a donc reçu pour mission de créer un m
 
 ## Notions utilisées :
 
-## Projet 8 : Communiquez vos résultats / Pyhton
+* statistique descriptive / Analyse en Composantes Principales / Classification automatique
+
+
+# [Projet 8 : Communiquez vos résultats / Election présidentielle 2017](https://github.com/Juuutran/Portfolio/tree/main/P8)
+
 
 ## Mise en situation :
 
-En démarrant ce parcours Data Analyst, vous aviez sûrement déjà un domaine de prédilection, voire un projet professionnel défini.
-
-Dans tous les cas, comprendre les problématiques d'un secteur et les métiers qui la composent est essentiel pour faire votre travail de data analyst. Vous ferez l'interface entre des données spécifiques et un représentant du métier.
-
-Alors, choisissez un domaine qui vous intéresse, étudiez en profondeur ses enjeux, et appréhendez un jeu de données spécifique.
+Dans le cadre de mon projet personnel j'ai décidé de créer un reporting/dashboard de l'élection présidentielle 2017 en France, pour y exposer toutes les données et résultats pertinents de cette élection présidentielle, de la manière la plus synthétiqe et efficace possible.
 
 
-Compétences :
+![BAN P8](https://user-images.githubusercontent.com/90773681/155820617-60ce152a-4466-4918-8c41-550fc3c827d8.png)
 
-Communiquer ses résultats à l’aide de visualisations / Rédiger un rapport d'analyse statistique
+## Compétences :
 
-Notions utilisées :
+* Utiliser toutes les compétences que j'ai acquis lors des projets précédents pour les appliquer au projet 8
+* Rechercher et récupérer un ou plusieurs jeu de données, ou encore le ou les construire soi même
+* Communiquer ses résultats à l’aide de visualisations / Rédiger un ou plusieurs dashboard
 
-## Projet 9 : Prédisez la demande en électricité / Pyhton
+## Notions utilisées :
 
-Mise en situation :
+* Language Python / Language SQL / Tableau / Powerbi
+
+# Projet 9 : Prédisez la demande en électricité
+
+## Mise en situation :
 
 Vous êtes employé chez Enercoop, société coopérative qui s'est développée grâce à la libéralisation du marché de l’électricité en France. Elle est spécialisée dans les énergies renouvelables.
 
@@ -135,10 +141,9 @@ La plupart de ces énergies renouvelables est cependant intermittente, il est do
 ![BAN PROJET README P9](https://user-images.githubusercontent.com/90773681/140577673-9bde653e-606d-47f9-9b3c-2ab897025fed.png)
 
 
-Compétences :
+## Compétences :
 
-Maitriser les méthodes de lissage et la méthode de Holt-Winters / Maitriser les notions de composantes et de modèles de décomposition / Maitriser la méthode ARMA
+* Maitriser les méthodes de lissage et la méthode de Holt-Winters / Maitriser les notions de composantes et de modèles de décomposition / Maitriser la méthode ARMA
+* Représenter graphiquement une série temporelle
 
-Représenter graphiquement une série temporelle
-
-Notions utilisées :
+## Notions utilisées :
