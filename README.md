@@ -1,6 +1,6 @@
 # Hello !! 👋 
 
-🌱 Je suis actuellement une formation chez Openclassrooms pour devenir Data Analyst !  
+🌱 Je viens de terminer une formation chez Openclassrooms de Data Analyst !
 📸 Je suis photographe / videaste : https://www.julientranphotographie.fr/  
 🤟 Je suis professeur de skate : https://www.superprof.fr/debuter-skate-comprendre-bases-positions-depasser-peurs-pouvoir-deplacer-bien-tenir-planche.html  
 📫 Se connecter avec moi : https://www.linkedin.com/in/julien-tran/  
@@ -10,9 +10,11 @@
 
 # Portfolio de mes projets Openclassrooms
 
-Voici le Portfolio des 9 projets que j'ai réalisé dans le cadre de ma formation Data Analyst avec Openclassrooms. Je suis toujours en formation à ce jour (19/04/2022) mais assez avancé et en avance pour vous présenter mes projets finalisés et leur code Python, R, et SQL associés. La formation comprend 9 projets différents dont un projet personnel construit de A à Z par moi-meme. Vous trouverez ci-dessous l'intitulé des différents projets et des compétences acquises pour chacun d'eux.
+Voici le Portfolio des 9 projets que j'ai réalisé dans le cadre de ma formation Data Analyst avec Openclassrooms. Je viens de terminer ma formation (25/05/2022) et suis desormais dans l'attente du jury final pour valider mon diplome. Je peux déja vous présenter mes projets finalisés et leur code Python, R, et SQL associés. La formation comprend 9 projets différents dont un projet personnel construit de A à Z par moi-meme. Vous trouverez ci-dessous l'intitulé des différents projets et des compétences acquises pour chacun d'eux.
 
 Les projets 1 et 2 sont absents de mon Portfolio car il ne comportent pas de code et evaluent des compétences de type softskills.
+
+# Je suis désormais à la recherche d'un poste en tant que Data Analyst ! je suis pret à demarrer n'importe quand alors n'hésitez pas à me contacter !
 
 # [Projet 3 : Réalisez une étude de santé publique / Python & SQL](https://github.com/Juuutran/Portfolio/tree/main/P3)
 
