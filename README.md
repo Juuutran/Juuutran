@@ -14,7 +14,7 @@ Voici le Portfolio des 9 projets que j'ai réalisé dans le cadre de ma formatio
 
 Les projets 1 et 2 sont absents de mon Portfolio car il ne comportent pas de code et evaluent des compétences de type softskills.
 
-# Je suis désormais à la recherche d'un poste en tant que Data Analyst ! je suis pret à demarrer n'importe quand alors n'hésitez pas à me contacter !
+# Je suis désormais à la recherche d'un poste en tant que Data Analyst ! je suis pret à demarrer n'importe quand alors n'hésitez pas à me contacter ! 
 
 # [Projet 3 : Réalisez une étude de santé publique / Python & SQL](https://github.com/Juuutran/Portfolio/tree/main/P3)
 
