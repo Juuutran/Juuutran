@@ -154,3 +154,6 @@ La plupart de ces énergies renouvelables est cependant intermittente, il est do
 * Représenter graphiquement une série temporelle
 
 ## Notions utilisées :
+ 
+* Language Python
+
