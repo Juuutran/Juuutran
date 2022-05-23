@@ -1,6 +1,6 @@
 # Hello !! 👋 
 
-🌱 Je viens de terminer une formation chez Openclassrooms de Data Analyst !
+🌱 Je viens de terminer une formation chez Openclassrooms de Data Analyst!
 📸 Je suis photographe / videaste : https://www.julientranphotographie.fr/  
 🤟 Je suis professeur de skate : https://www.superprof.fr/debuter-skate-comprendre-bases-positions-depasser-peurs-pouvoir-deplacer-bien-tenir-planche.html  
 📫 Se connecter avec moi : https://www.linkedin.com/in/julien-tran/  
