@@ -133,7 +133,7 @@ Dans le cadre de mon projet personnel j'ai décidé de créer un reporting/dashb
 
 ## Dashboard de l'élection présidentielle 2017 en France :
 
-https://public.tableau.com/app/profile/tran.julien/viz/ELECTION_PRESIDENTIELLE_2017_FINAL_V4/MENU
+https://public.tableau.com/app/profile/tran.julien/viz/DashboardElectionprsidentielle2017/MENU
 https://public.tableau.com/app/profile/tran.julien/viz/DashboardElectionprsidentielle2022/DATACandidats
 
 # [Projet 9 : Prédisez la demande en électricité / Python](https://github.com/Juuutran/Juuutran/tree/main/P9)
